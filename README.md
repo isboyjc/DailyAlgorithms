@@ -10,13 +10,9 @@ Let's stick to the brush algorithm
 
 也可以加我好友【lijianchao666】，进算法交流群一起互相督促刷题
 
-## 顺序目录
-
-- [No.1 两数之和 - 初体验](https://github.com/isboyjc/DailyAlgorithms/issues/1)
-
-- 持续更新中。。。
-
 ## 分类目录
+
+- [排序](https://github.com/isboyjc/DailyAlgorithms/issues?q=is%3Aopen+is%3Aissue+label%3A%E6%8E%92%E5%BA%8F)
 
 - [链表](https://github.com/isboyjc/DailyAlgorithms/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%93%BE%E8%A1%A8)
 
@@ -33,3 +29,13 @@ Let's stick to the brush algorithm
 - [栈](https://github.com/isboyjc/DailyAlgorithms/issues?q=is%3Aopen+is%3Aissue+label%3A%E6%A0%88)
 
 - [哈希表](https://github.com/isboyjc/DailyAlgorithms/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%93%88%E5%B8%8C%E8%A1%A8)
+
+## 顺序目录
+
+- [No.1 两数之和 - 算法初体验](https://github.com/isboyjc/DailyAlgorithms/issues/1)
+
+- 首刷链表，建议了解下链表这种数据结构
+
+- [No.2 从头到位打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
+
+- 持续更新中。。。
