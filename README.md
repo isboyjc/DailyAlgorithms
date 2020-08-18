@@ -36,8 +36,10 @@ Let's stick to the brush algorithm
 
 - 首刷链表，对后续树结构及递归等都有帮助，建议先了解链表数据结构
 
-- [No.2 从头到尾打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
+- [No.2 从尾到头打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
 
 - [No.3 删除链表中的节点](https://github.com/isboyjc/DailyAlgorithms/issues/3)
+
+- [No.4 反转链表](https://github.com/isboyjc/DailyAlgorithms/issues/4)
 
 - 持续更新中。。。
