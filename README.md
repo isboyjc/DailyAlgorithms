@@ -36,6 +36,6 @@ Let's stick to the brush algorithm
 
 - 首刷链表，建议了解下链表这种数据结构
 
-- [No.2 从头到位打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
+- [No.2 从头到尾打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
 
 - 持续更新中。。。
