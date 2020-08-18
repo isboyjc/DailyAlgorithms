@@ -34,8 +34,10 @@ Let's stick to the brush algorithm
 
 - [No.1 两数之和 - 算法初体验](https://github.com/isboyjc/DailyAlgorithms/issues/1)
 
-- 首刷链表，建议了解下链表这种数据结构
+- 首刷链表，对后续树结构及递归等都有帮助，建议先了解链表数据结构
 
 - [No.2 从头到尾打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
+
+- [No.3 删除链表中的节点](https://github.com/isboyjc/DailyAlgorithms/issues/3)
 
 - 持续更新中。。。
