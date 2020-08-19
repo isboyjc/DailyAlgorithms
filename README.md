@@ -46,4 +46,10 @@ Let's stick to the brush algorithm
 
 - [No.6 移除链表元素](https://github.com/isboyjc/DailyAlgorithms/issues/6)
 
+- [No.7 合并两个有序链表](https://github.com/isboyjc/DailyAlgorithms/issues/7)
+
+- [No.8 链表中倒数第 k 个节点](https://github.com/isboyjc/DailyAlgorithms/issues/8)
+
+- [No.9 环形链表](https://github.com/isboyjc/DailyAlgorithms/issues/9)
+
 - 持续更新中。。。
