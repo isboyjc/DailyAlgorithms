@@ -42,4 +42,8 @@ Let's stick to the brush algorithm
 
 - [No.4 反转链表](https://github.com/isboyjc/DailyAlgorithms/issues/4)
 
+- [No.5 删除链表的指定节点(节点值互不相同)](https://github.com/isboyjc/DailyAlgorithms/issues/5)
+
+- [No.6 移除链表元素](https://github.com/isboyjc/DailyAlgorithms/issues/6)
+
 - 持续更新中。。。
