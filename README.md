@@ -52,4 +52,6 @@ Let's stick to the brush algorithm
 
 - [No.9 环形链表](https://github.com/isboyjc/DailyAlgorithms/issues/9)
 
+- [No.10 移除链表重复节点](https://github.com/isboyjc/DailyAlgorithms/issues/10)
+
 - 持续更新中。。。
