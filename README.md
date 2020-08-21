@@ -54,4 +54,6 @@ Let's stick to the brush algorithm
 
 - [No.10 移除链表重复节点](https://github.com/isboyjc/DailyAlgorithms/issues/10)
 
+- [No.11 链表的中间节点](https://github.com/isboyjc/DailyAlgorithms/issues/11)
+
 - 持续更新中。。。
