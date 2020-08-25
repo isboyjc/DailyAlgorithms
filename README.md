@@ -60,4 +60,6 @@ Let's stick to the brush algorithm
 
 - [No.13 回文链表](https://github.com/isboyjc/DailyAlgorithms/issues/13)
 
+- [No.14 环形链表 II](https://github.com/isboyjc/DailyAlgorithms/issues/14)
+
 - 持续更新中。。。
