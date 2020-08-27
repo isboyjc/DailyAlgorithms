@@ -60,7 +60,7 @@ Let's stick to the brush algorithm
 
 - [No.13 回文链表](https://github.com/isboyjc/DailyAlgorithms/issues/13)
 
-- 到了这里，恭喜你，你对链表这种数据结构的掌握已经不是小白了，相信你自己也会有感觉，难度要上升了，坚持住
+- 到了这里，恭喜你，你对链表这种数据结构的掌握已经不是小白了，相信你自己也会有感觉，难度要进阶了，坚持住
 
 - [No.14 环形链表 II](https://github.com/isboyjc/DailyAlgorithms/issues/14)
 
