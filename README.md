@@ -66,4 +66,6 @@ Let's stick to the brush algorithm
 
 - [No.15 反转链表 II](https://github.com/isboyjc/DailyAlgorithms/issues/15)
 
+- [No.16 排序链表](https://github.com/isboyjc/DailyAlgorithms/issues/16)
+
 - 持续更新中。。。
