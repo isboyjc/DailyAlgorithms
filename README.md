@@ -68,4 +68,6 @@ Let's stick to the brush algorithm
 
 - [No.16 排序链表](https://github.com/isboyjc/DailyAlgorithms/issues/16)
 
+- [No.17 对链表进行插入排序](https://github.com/isboyjc/DailyAlgorithms/issues/17)
+
 - 持续更新中。。。
