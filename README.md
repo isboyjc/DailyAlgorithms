@@ -72,4 +72,6 @@ Let's stick to the brush algorithm
 
 - [No.18 两两交换链表中的节点](https://github.com/isboyjc/DailyAlgorithms/issues/18)
 
+- [No.19 奇偶链表](https://github.com/isboyjc/DailyAlgorithms/issues/19)
+
 - 持续更新中。。。
