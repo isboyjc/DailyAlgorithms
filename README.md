@@ -74,4 +74,6 @@ Let's stick to the brush algorithm
 
 - [No.19 奇偶链表](https://github.com/isboyjc/DailyAlgorithms/issues/19)
 
+- [No.20 复制带随机指针的链表](https://github.com/isboyjc/DailyAlgorithms/issues/20)
+
 - 持续更新中。。。
