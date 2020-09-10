@@ -78,4 +78,6 @@ Let's stick to the brush algorithm
 
 - [No.21 分割链表](https://github.com/isboyjc/DailyAlgorithms/issues/21)
 
+- [No22 旋转链表](https://github.com/isboyjc/DailyAlgorithms/issues/22)
+
 - 持续更新中。。。
