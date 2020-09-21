@@ -80,4 +80,6 @@ Let's stick to the brush algorithm
 
 - [No22 旋转链表](https://github.com/isboyjc/DailyAlgorithms/issues/22)
 
+- [No.23 链表中的下一个更大节点](https://github.com/isboyjc/DailyAlgorithms/issues/23)
+
 - 持续更新中。。。
