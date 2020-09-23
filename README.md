@@ -84,4 +84,6 @@ Let's stick to the brush algorithm
 
 - [No.24 重排链表](https://github.com/isboyjc/DailyAlgorithms/issues/24)
 
+- [No.25 链表求和](https://github.com/isboyjc/DailyAlgorithms/issues/25)
+
 - 持续更新中。。。
