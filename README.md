@@ -86,4 +86,6 @@ Let's stick to the brush algorithm
 
 - [No.25 链表求和](https://github.com/isboyjc/DailyAlgorithms/issues/25)
 
+- [No.26 删除排序链表中的重复元素 II](https://github.com/isboyjc/DailyAlgorithms/issues/26)
+
 - 持续更新中。。。
