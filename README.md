@@ -88,4 +88,6 @@ Let's stick to the brush algorithm
 
 - [No.26 删除排序链表中的重复元素 II](https://github.com/isboyjc/DailyAlgorithms/issues/26)
 
+- [No.27 删除链表的倒数第 N 个节点](https://github.com/isboyjc/DailyAlgorithms/issues/27)
+
 - 持续更新中。。。
