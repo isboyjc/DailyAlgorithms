@@ -90,4 +90,6 @@ Let's stick to the brush algorithm
 
 - [No.27 删除链表的倒数第 N 个节点](https://github.com/isboyjc/DailyAlgorithms/issues/27)
 
+- [No.28 分隔链表](https://github.com/isboyjc/DailyAlgorithms/issues/28)
+
 - 持续更新中。。。
