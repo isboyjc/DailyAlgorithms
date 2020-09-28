@@ -92,4 +92,6 @@ Let's stick to the brush algorithm
 
 - [No.28 分隔链表](https://github.com/isboyjc/DailyAlgorithms/issues/28)
 
+- [No.29 两数相加 II](https://github.com/isboyjc/DailyAlgorithms/issues/29)
+
 - 持续更新中。。。
