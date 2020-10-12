@@ -94,4 +94,8 @@ Let's stick to the brush algorithm
 
 - [No.29 两数相加 II](https://github.com/isboyjc/DailyAlgorithms/issues/29)
 
+- 链表告一段落，开始树结构
+
+- [No.30 最小高度树](https://github.com/isboyjc/DailyAlgorithms/issues/30)
+
 - 持续更新中。。。
