@@ -98,4 +98,6 @@ Let's stick to the brush algorithm
 
 - [No.30 最小高度树](https://github.com/isboyjc/DailyAlgorithms/issues/30)
 
+- [No.31 二叉树的深度](https://github.com/isboyjc/DailyAlgorithms/issues/31)
+
 - 持续更新中。。。
