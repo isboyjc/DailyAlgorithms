@@ -102,4 +102,6 @@ Let's stick to the brush algorithm
 
 - [No.32 二叉树的镜像&翻转二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/32)
 
+- [No.33 合并二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/33)
+
 - 持续更新中。。。
