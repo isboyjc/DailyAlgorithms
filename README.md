@@ -104,4 +104,6 @@ Let's stick to the brush algorithm
 
 - [No.33 合并二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/33)
 
+- [No.34 二叉搜索树的范围和](https://github.com/isboyjc/DailyAlgorithms/issues/34)
+
 - 持续更新中。。。
