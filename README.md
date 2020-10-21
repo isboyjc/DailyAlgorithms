@@ -94,9 +94,11 @@ Let's stick to the brush algorithm
 
 - [No.29 两数相加 II](https://github.com/isboyjc/DailyAlgorithms/issues/29)
 
-- 链表告一段落，开始树结构
+- 链表告一段落，开始树结构，先了解下什么是 [树](https://baike.baidu.com/item/%E6%A0%91/2699484?fromtitle=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%20%E6%A0%91&fromid=12062173&fr=aladdin) 吧！
 
 - [No.30 最小高度树](https://github.com/isboyjc/DailyAlgorithms/issues/30)
+
+- 你可能需要知道什么叫 [二叉树](https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%A0%91/1602879?fr=aladdin)
 
 - [No.31 二叉树的深度](https://github.com/isboyjc/DailyAlgorithms/issues/31)
 
@@ -104,6 +106,10 @@ Let's stick to the brush algorithm
 
 - [No.33 合并二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/33)
 
+- 又一种树结构 [二叉搜索树](https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/7077855?fr=aladdin)
+
 - [No.34 二叉搜索树的范围和](https://github.com/isboyjc/DailyAlgorithms/issues/34)
+
+- [No.35 二叉搜索树中的搜索](https://github.com/isboyjc/DailyAlgorithms/issues/35)
 
 - 持续更新中。。。
