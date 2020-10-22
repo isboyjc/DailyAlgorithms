@@ -112,4 +112,6 @@ Let's stick to the brush algorithm
 
 - [No.35 二叉搜索树中的搜索](https://github.com/isboyjc/DailyAlgorithms/issues/35)
 
+- [No.36 二叉搜索树的第 k 大节点](https://github.com/isboyjc/DailyAlgorithms/issues/36)
+
 - 持续更新中。。。
