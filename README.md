@@ -116,4 +116,6 @@ Let's stick to the brush algorithm
 
 - [No.37 将有序数组转换为二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/37)
 
+- [No.38 二叉搜索树的最近公共祖先](https://github.com/isboyjc/DailyAlgorithms/issues/38)
+
 - 持续更新中。。。
