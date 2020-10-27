@@ -118,4 +118,6 @@ Let's stick to the brush algorithm
 
 - [No.38 二叉搜索树的最近公共祖先](https://github.com/isboyjc/DailyAlgorithms/issues/38)
 
+- [No.39 N 叉树的最大深度](https://github.com/isboyjc/DailyAlgorithms/issues/39)
+
 - 持续更新中。。。
