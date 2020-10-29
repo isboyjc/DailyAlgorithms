@@ -120,4 +120,6 @@ Let's stick to the brush algorithm
 
 - [No.39 N 叉树的最大深度](https://github.com/isboyjc/DailyAlgorithms/issues/39)
 
+- [No.40 单值二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/40)
+
 - 持续更新中。。。
