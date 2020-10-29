@@ -122,4 +122,6 @@ Let's stick to the brush algorithm
 
 - [No.40 单值二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/40)
 
+- [No.41 二叉树的层平均值](https://github.com/isboyjc/DailyAlgorithms/issues/41)
+
 - 持续更新中。。。
