@@ -124,4 +124,8 @@ Let's stick to the brush algorithm
 
 - [No.41 二叉树的层平均值](https://github.com/isboyjc/DailyAlgorithms/issues/41)
 
+- 接下来要先了解一下树的前序、中序、后序遍历再来做题（PS：没时间些，百度很多，了解概念即可，哈哈）
+
+- [No.42 N 叉树的前序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/42)
+
 - 持续更新中。。。
