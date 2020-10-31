@@ -130,4 +130,6 @@ Let's stick to the brush algorithm
 
 - [No.43 二叉树的层次遍历 II](https://github.com/isboyjc/DailyAlgorithms/issues/43)
 
+- [No.44 N 叉树的后序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/44)
+
 - 持续更新中。。。
