@@ -132,4 +132,6 @@ Let's stick to the brush algorithm
 
 - [No.44 N 叉树的后序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/44)
 
+- [No.45 递增顺序查找树](https://github.com/isboyjc/DailyAlgorithms/issues/45)
+
 - 持续更新中。。。
