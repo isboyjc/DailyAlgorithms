@@ -134,4 +134,6 @@ Let's stick to the brush algorithm
 
 - [No.45 递增顺序查找树](https://github.com/isboyjc/DailyAlgorithms/issues/45)
 
+- [No.46 二叉树的所有路径](https://github.com/isboyjc/DailyAlgorithms/issues/46)
+
 - 持续更新中。。。
