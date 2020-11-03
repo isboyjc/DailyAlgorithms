@@ -136,4 +136,6 @@ Let's stick to the brush algorithm
 
 - [No.46 二叉树的所有路径](https://github.com/isboyjc/DailyAlgorithms/issues/46)
 
+- [No.47 修剪二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/47)
+
 - 持续更新中。。。
