@@ -138,4 +138,6 @@ Let's stick to the brush algorithm
 
 - [No.47 修剪二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/47)
 
+- [No.48 叶子相似的树](https://github.com/isboyjc/DailyAlgorithms/issues/48)
+
 - 持续更新中。。。
