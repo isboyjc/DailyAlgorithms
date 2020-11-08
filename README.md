@@ -124,7 +124,7 @@ Let's stick to the brush algorithm
 
 - [No.41 二叉树的层平均值](https://github.com/isboyjc/DailyAlgorithms/issues/41)
 
-- 接下来要先了解一下树的前序、中序、后序遍历再来做题（PS：没时间些，百度很多，了解概念即可，哈哈）
+- 接下来要先了解一下树的前序、中序、后序、层序遍历再来做题（PS：没时间些，百度很多，了解概念即可，哈哈）
 
 - [No.42 N 叉树的前序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/42)
 
@@ -139,5 +139,7 @@ Let's stick to the brush algorithm
 - [No.47 修剪二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/47)
 
 - [No.48 叶子相似的树](https://github.com/isboyjc/DailyAlgorithms/issues/48)
+
+- [No.49 二叉树的层序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/49)
 
 - 持续更新中。。。
