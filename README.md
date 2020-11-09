@@ -142,4 +142,6 @@ Let's stick to the brush algorithm
 
 - [No.49 二叉树的层序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/49)
 
+- [No.50 平衡二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/50)
+
 - 持续更新中。。。
