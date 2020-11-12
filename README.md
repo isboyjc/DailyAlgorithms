@@ -146,4 +146,6 @@ Let's stick to the brush algorithm
 
 - [No.51 二叉搜索树的最小绝对差](https://github.com/isboyjc/DailyAlgorithms/issues/51)
 
+- [No.52 左叶子之和](https://github.com/isboyjc/DailyAlgorithms/issues/52)
+
 - 持续更新中。。。
