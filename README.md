@@ -148,4 +148,6 @@ Let's stick to the brush algorithm
 
 - [No.52 左叶子之和](https://github.com/isboyjc/DailyAlgorithms/issues/52)
 
+- [No.53 对称二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/53)
+
 - 持续更新中。。。
