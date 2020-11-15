@@ -150,4 +150,6 @@ Let's stick to the brush algorithm
 
 - [No.53 对称二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/53)
 
+- [No.54 二叉树的最小深度](https://github.com/isboyjc/DailyAlgorithms/issues/54)
+
 - 持续更新中。。。
