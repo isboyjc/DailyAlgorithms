@@ -166,4 +166,6 @@ Let's stick to the brush algorithm
 
 - [No.61 验证二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/61)
 
+- [No.62 二叉搜索树中第K小的元素](https://github.com/isboyjc/DailyAlgorithms/issues/62)
+
 - 持续更新中。。。
