@@ -162,4 +162,6 @@ Let's stick to the brush algorithm
 
 - [No.59 二叉树的后序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/59)
 
+- [No.60 二叉树的前序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/60)
+
 - 持续更新中。。。
