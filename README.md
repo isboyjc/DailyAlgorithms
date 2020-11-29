@@ -124,7 +124,7 @@ Let's stick to the brush algorithm
 
 - [No.41 二叉树的层平均值](https://github.com/isboyjc/DailyAlgorithms/issues/41)
 
-- 接下来要先了解一下树的前序、中序、后序、层序遍历再来做题（PS：没时间些，百度很多，了解概念即可，哈哈）
+- 接下来要先了解一下树的前序、中序、后序、层序遍历再来做题（PS：没时间写，百度很多，了解概念即可，哈哈）
 
 - [No.42 N 叉树的前序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/42)
 
@@ -157,6 +157,8 @@ Let's stick to the brush algorithm
 - [No.56 二叉树中第二小的节点](https://github.com/isboyjc/DailyAlgorithms/issues/56)
 
 - [No.57 另一个树的子树](https://github.com/isboyjc/DailyAlgorithms/issues/57)
+
+- 难度开始升级了，到了这里力扣中树结构的题目已经快刷一半了，坚持就是胜利
 
 - [No.58 二叉树的中序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/58)
 
