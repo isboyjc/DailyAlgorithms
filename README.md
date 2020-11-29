@@ -164,4 +164,6 @@ Let's stick to the brush algorithm
 
 - [No.60 二叉树的前序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/60)
 
+- [No.61 验证二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/61)
+
 - 持续更新中。。。
