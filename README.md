@@ -174,4 +174,6 @@ Let's stick to the brush algorithm
 
 - [No.64 找树左下角的值](https://github.com/isboyjc/DailyAlgorithms/issues/64)
 
+- [No.65 N 叉树的层序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/65)
+
 - 持续更新中。。。
