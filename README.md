@@ -176,4 +176,6 @@ Let's stick to the brush algorithm
 
 - [No.65 N 叉树的层序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/65)
 
+- [No.66 二叉搜索树中的插入操作](https://github.com/isboyjc/DailyAlgorithms/issues/66)
+
 - 持续更新中。。。
