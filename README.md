@@ -178,4 +178,6 @@ Let's stick to the brush algorithm
 
 - [No.66 二叉搜索树中的插入操作](https://github.com/isboyjc/DailyAlgorithms/issues/66)
 
+- [No.67 二叉树展开为链表](https://github.com/isboyjc/DailyAlgorithms/issues/67)
+
 - 持续更新中。。。
