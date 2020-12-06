@@ -182,4 +182,6 @@ Let's stick to the brush algorithm
 
 - [No.68 二叉搜索树迭代器](https://github.com/isboyjc/DailyAlgorithms/issues/68)
 
+- [No.69 二叉树寻路](https://github.com/isboyjc/DailyAlgorithms/issues/69)
+
 - 持续更新中。。。
