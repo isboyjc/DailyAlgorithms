@@ -186,4 +186,6 @@ Let's stick to the brush algorithm
 
 - [No.70 二叉树的右视图](https://github.com/isboyjc/DailyAlgorithms/issues/70)
 
+- [No.71 翻转等价二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/71)
+
 - 持续更新中。。。
