@@ -188,4 +188,6 @@ Let's stick to the brush algorithm
 
 - [No.71 翻转等价二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/71)
 
+- [No.72 两棵二叉搜索树中的所有元素](https://github.com/isboyjc/DailyAlgorithms/issues/72)
+
 - 持续更新中。。。
