@@ -190,4 +190,6 @@ Let's stick to the brush algorithm
 
 - [No.72 两棵二叉搜索树中的所有元素](https://github.com/isboyjc/DailyAlgorithms/issues/72)
 
+- [No.73  完全二叉树的节点个数](https://github.com/isboyjc/DailyAlgorithms/issues/73)
+
 - 持续更新中。。。
