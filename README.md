@@ -192,4 +192,6 @@ Let's stick to the brush algorithm
 
 - [No.73  完全二叉树的节点个数](https://github.com/isboyjc/DailyAlgorithms/issues/73)
 
+- [No.74 在每个树行中找最大值](https://github.com/isboyjc/DailyAlgorithms/issues/74)
+
 - 持续更新中。。。
