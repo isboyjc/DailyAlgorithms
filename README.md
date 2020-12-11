@@ -194,4 +194,6 @@ Let's stick to the brush algorithm
 
 - [No.74 在每个树行中找最大值](https://github.com/isboyjc/DailyAlgorithms/issues/74)
 
+- [No.75 删点成林](https://github.com/isboyjc/DailyAlgorithms/issues/75)
+
 - 持续更新中。。。
