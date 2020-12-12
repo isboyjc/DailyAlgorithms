@@ -196,4 +196,6 @@ Let's stick to the brush algorithm
 
 - [No.75 删点成林](https://github.com/isboyjc/DailyAlgorithms/issues/75)
 
+- [No.76 前序遍历构造二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/76)
+
 - 持续更新中。。。
