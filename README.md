@@ -198,4 +198,6 @@ Let's stick to the brush algorithm
 
 - [No.76 前序遍历构造二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/76)
 
+- [No.77 完全二叉树插入器](https://github.com/isboyjc/DailyAlgorithms/issues/77)
+
 - 持续更新中。。。
