@@ -202,4 +202,6 @@ Let's stick to the brush algorithm
 
 - [No.78 找出克隆二叉树中的相同节点](https://github.com/isboyjc/DailyAlgorithms/issues/78)
 
+- [No.79 二叉树最大宽度](https://github.com/isboyjc/DailyAlgorithms/issues/79)
+
 - 持续更新中。。。
