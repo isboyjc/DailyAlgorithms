@@ -208,4 +208,6 @@ Let's stick to the brush algorithm
 
 - [No.81 二叉树中所有距离为 K 的结点](https://github.com/isboyjc/DailyAlgorithms/issues/81)
 
+- [No.82 路径总和](https://github.com/isboyjc/DailyAlgorithms/issues/82)
+
 - 持续更新中。。。
