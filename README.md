@@ -212,4 +212,6 @@ Let's stick to the brush algorithm
 
 - [No.83 特定深度节点链表](https://github.com/isboyjc/DailyAlgorithms/issues/83)
 
+- [No.84 把二叉搜索树转换为累加树](https://github.com/isboyjc/DailyAlgorithms/issues/84)
+
 - 持续更新中。。。
