@@ -214,4 +214,6 @@ Let's stick to the brush algorithm
 
 - [No.84 把二叉搜索树转换为累加树](https://github.com/isboyjc/DailyAlgorithms/issues/84)
 
+- [No.85 首个共同祖先](https://github.com/isboyjc/DailyAlgorithms/issues/85)
+
 - 持续更新中。。。
