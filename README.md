@@ -216,4 +216,6 @@ Let's stick to the brush algorithm
 
 - [No.85 首个共同祖先](https://github.com/isboyjc/DailyAlgorithms/issues/85)
 
+- [No.86 寻找重复的子树](https://github.com/isboyjc/DailyAlgorithms/issues/86)
+
 - 持续更新中。。。
