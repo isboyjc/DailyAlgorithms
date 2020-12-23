@@ -218,4 +218,6 @@ Let's stick to the brush algorithm
 
 - [No.86 寻找重复的子树](https://github.com/isboyjc/DailyAlgorithms/issues/86)
 
+- [No.87 奇偶树](https://github.com/isboyjc/DailyAlgorithms/issues/87)
+
 - 持续更新中。。。
