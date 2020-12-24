@@ -222,4 +222,6 @@ Let's stick to the brush algorithm
 
 - [No.88 删除二叉搜索树中的节点](https://github.com/isboyjc/DailyAlgorithms/issues/88)
 
+- [No.89 二叉树中的列表](https://github.com/isboyjc/DailyAlgorithms/issues/89)
+
 - 持续更新中。。。
