@@ -38,9 +38,9 @@ Let's stick to the brush algorithm
 
 ## 顺序目录
 
-- 「算法与数据结构」时间与空间复杂度  [👉文章讲解](https://github.com/isboyjc/blog/issues/28)  [👉视频讲解](https://www.bilibili.com/video/BV1T5411p7oN)
+- 「算法与数据结构」时间与空间复杂度  [👉文章讲解](https://github.com/isboyjc/blog/issues/28)  [👉30min视频讲解](https://www.bilibili.com/video/BV1T5411p7oN)
 
-- ✅ [No.1 两数之和 - 算法初体验](https://github.com/isboyjc/DailyAlgorithms/issues/1)  [👉视频题解](https://www.bilibili.com/video/BV1Ha4y1p7BY)
+- ✅ [No.1 两数之和 - 算法初体验](https://github.com/isboyjc/DailyAlgorithms/issues/1)  [👉11min视频题解](https://www.bilibili.com/video/BV1Ha4y1p7BY)
 
 - 首刷链表，对后续树结构及递归等都有帮助，先了解链表这种数据结构吧
 
