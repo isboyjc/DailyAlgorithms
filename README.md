@@ -236,4 +236,6 @@ Let's stick to the brush algorithm
 
 - ✅ [No.90 二叉树中的最长交错路径](https://github.com/isboyjc/DailyAlgorithms/issues/90)
 
+- ✅ [No.91 统计二叉树中好节点的数目](https://github.com/isboyjc/DailyAlgorithms/issues/91)
+
 - 持续更新中。。。
