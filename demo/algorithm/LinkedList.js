@@ -2,11 +2,15 @@
  * @Author: isboyjc
  * @Date: 2020-12-27 00:05:55
  * @LastEditors: isboyjc
- * @LastEditTime: 2020-12-27 22:03:56
+ * @LastEditTime: 2020-12-28 21:24:00
  * @Description: 「算法与数据结构」JavaScript中的链表 单向链表设计案例
  * @Article: https://github.com/isboyjc/blog/issues/29
  * @GitHub: https://github.com/isboyjc/DailyAlgorithms
  */
+
+module.exports = {
+  LinkedList
+}
 
 /**
  * @description: 创建链表单节点类
@@ -28,7 +32,7 @@ function LinkedList() {
   this.head = null
 }
 
-// 向链表中添加节点
+// 向链表中追加节点
 LinkedList.prototype.append = function (val) {
   let node = new ListNode(val)
 
@@ -153,30 +157,41 @@ LinkedList.prototype.jion = function (string) {
 }
 
 
-let linkedList = new LinkedList()
-linkedList.append(10)
-linkedList.append(20)
-linkedList.append(30)
+// let linkedList = new LinkedList()
+// linkedList.append(10)
+// linkedList.append(20)
+// linkedList.append(30)
 
-console.log(linkedList.jion("--"))
+// console.log(linkedList.jion("--"))
 
-linkedList.insert(0, 5)
-linkedList.insert(2, 15)
-linkedList.insert(4, 25)
-console.log(linkedList.jion("--"))
+// linkedList.insert(0, 5)
+// linkedList.insert(2, 15)
+// linkedList.insert(4, 25)
+// console.log(linkedList.jion("--"))
 
-console.log(linkedList.removeAt(0))
-console.log(linkedList.removeAt(1))
-console.log(linkedList.removeAt(2))
-console.log(linkedList.jion("--"))
+// console.log(linkedList.removeAt(0))
+// console.log(linkedList.removeAt(1))
+// console.log(linkedList.removeAt(2))
+// console.log(linkedList.jion("--"))
 
-console.log(linkedList.indexOf(20))
+// console.log(linkedList.indexOf(20))
 
-linkedList.remove(20)
+// linkedList.remove(20)
 
-console.log(linkedList.jion("--"))
+// console.log(linkedList.jion("--"))
 
-console.log(linkedList.find(10))
+// console.log(linkedList.find(10))
 
-linkedList.clear()
-console.log(linkedList.size())
+// linkedList.clear()
+// console.log(linkedList.size())
+
+// 10--20--30
+// 5--10--15--20--25--30
+// 5
+// 15
+// 25
+// 10--20--30
+// 1
+// 10--30
+// ListNode { val: 10, next: ListNode { val: 30, next: null } }
+// 0
