@@ -238,4 +238,6 @@ Let's stick to the brush algorithm
 
 - ✅ [No.91 统计二叉树中好节点的数目](https://github.com/isboyjc/DailyAlgorithms/issues/91)
 
+- ✅ [No.92 节点与其祖先之间的最大差值](https://github.com/isboyjc/DailyAlgorithms/issues/92)
+
 - 持续更新中。。。
