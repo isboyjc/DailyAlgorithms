@@ -240,4 +240,6 @@ Let's stick to the brush algorithm
 
 - ✅ [No.92 节点与其祖先之间的最大差值](https://github.com/isboyjc/DailyAlgorithms/issues/92)
 
+- [No.93 序列化和反序列化二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/93)
+
 - 持续更新中。。。
