@@ -242,6 +242,8 @@ Let's stick to the brush algorithm
 
 - ✅ [No.93 序列化和反序列化二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/93)
 
-- [No.94 二叉树的序列化与反序列化](https://github.com/isboyjc/DailyAlgorithms/issues/94)
+- ✅ [No.94 二叉树的序列化与反序列化](https://github.com/isboyjc/DailyAlgorithms/issues/94)
+
+- [No.95 恢复二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/95)
 
 - 持续更新中。。。
