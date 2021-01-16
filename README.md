@@ -246,6 +246,8 @@ Let's stick to the brush algorithm
 
 - ✅ [No.95 恢复二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/95)
 
-- [No.96 监控二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/96)
+- ✅ [No.96 监控二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/96)
+
+- [No.97 重建二叉树](https://github.com/isboyjc/DailyAlgorithms/issues/97)
 
 - 持续更新中。。。
