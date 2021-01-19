@@ -252,6 +252,8 @@ Let's stick to the brush algorithm
 
 - ✅ [No.98 树的子结构](https://github.com/isboyjc/DailyAlgorithms/issues/98)
 
-- [No.99 不同的二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/99)
+- ✅ [No.99 不同的二叉搜索树](https://github.com/isboyjc/DailyAlgorithms/issues/99)
+
+- [No.100 二叉树的垂序遍历](https://github.com/isboyjc/DailyAlgorithms/issues/100)
 
 - 持续更新中。。。
