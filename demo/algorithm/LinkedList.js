@@ -143,7 +143,7 @@ LinkedList.prototype.clear = function () {
 }
 
 // 序列化链表
-LinkedList.prototype.jion = function (string) {
+LinkedList.prototype.join = function (string) {
   let cur = this.head
   let str = ''
   while (cur) {
@@ -162,23 +162,23 @@ LinkedList.prototype.jion = function (string) {
 // linkedList.append(20)
 // linkedList.append(30)
 
-// console.log(linkedList.jion("--"))
+// console.log(linkedList.join("--"))
 
 // linkedList.insert(0, 5)
 // linkedList.insert(2, 15)
 // linkedList.insert(4, 25)
-// console.log(linkedList.jion("--"))
+// console.log(linkedList.join("--"))
 
 // console.log(linkedList.removeAt(0))
 // console.log(linkedList.removeAt(1))
 // console.log(linkedList.removeAt(2))
-// console.log(linkedList.jion("--"))
+// console.log(linkedList.join("--"))
 
 // console.log(linkedList.indexOf(20))
 
 // linkedList.remove(20)
 
-// console.log(linkedList.jion("--"))
+// console.log(linkedList.join("--"))
 
 // console.log(linkedList.find(10))
 

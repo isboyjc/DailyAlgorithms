@@ -2,7 +2,7 @@
  * @Author: isboyjc
  * @Date: 2020-12-27 00:05:55
  * @LastEditors: isboyjc
- * @LastEditTime: 2020-12-28 21:23:53
+ * @LastEditTime: 2021-01-25 13:49:01
  * @Description: 「算法与数据结构」JavaScript中的链表 双向链表设计案例
  * @Article: https://github.com/isboyjc/blog/issues/29
  * @GitHub: https://github.com/isboyjc/DailyAlgorithms
@@ -199,7 +199,7 @@ DoubleLinkedList.prototype.clear = function () {
 }
 
 // 序列化双向链表
-DoubleLinkedList.prototype.jion = function (string) {
+DoubleLinkedList.prototype.join = function (string) {
   let cur = this.head
   let str = ''
   while (cur) {
@@ -217,13 +217,13 @@ DoubleLinkedList.prototype.jion = function (string) {
 // doubleLinkedList.append(15)
 // doubleLinkedList.append(20)
 // doubleLinkedList.append(25)
-// console.log(doubleLinkedList.jion("<->"))
+// console.log(doubleLinkedList.join("<->"))
 
 // console.log(doubleLinkedList.getElementAt(0).val)
 // console.log(doubleLinkedList.getElementAt(1).val)
 // console.log(doubleLinkedList.getElementAt(5))
 
-// console.log(doubleLinkedList.jion("<->"))
+// console.log(doubleLinkedList.join("<->"))
 // console.log(doubleLinkedList.indexOf(10))
 // console.log(doubleLinkedList.indexOf(25))
 // console.log(doubleLinkedList.indexOf(50))
@@ -231,7 +231,7 @@ DoubleLinkedList.prototype.jion = function (string) {
 // doubleLinkedList.insert(0, 5)
 // doubleLinkedList.insert(3, 18)
 // doubleLinkedList.insert(6, 30)
-// console.log(doubleLinkedList.jion("<->"))
+// console.log(doubleLinkedList.join("<->"))
 
 // console.log(doubleLinkedList.find(10).val)
 // console.log(doubleLinkedList.removeAt(0))
@@ -240,7 +240,7 @@ DoubleLinkedList.prototype.jion = function (string) {
 // console.log(doubleLinkedList.remove(10))
 // console.log(doubleLinkedList.remove(100))
 
-// console.log(doubleLinkedList.jion("<->"))
+// console.log(doubleLinkedList.join("<->"))
 
 // 10<->15<->20<->25
 // 10
