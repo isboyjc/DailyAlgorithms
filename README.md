@@ -44,7 +44,7 @@ Let's stick to the brush algorithm
 
 - 首刷链表，对后续树结构及递归等都有帮助，先了解链表这种数据结构吧
 
-- 「算法与数据结构」JavaScript中的链表 [文章讲解-待续]() [视频讲解-待续]()
+- 「算法与数据结构」JavaScript中的链表 [👉文章讲解](https://github.com/isboyjc/blog/issues/29) [👉40min视频讲解](https://www.bilibili.com/video/BV1aV411q7WF)
 
 - ✅ [No.2 从尾到头打印链表](https://github.com/isboyjc/DailyAlgorithms/issues/2)
 
