@@ -2,7 +2,7 @@
  * @Author: isboyjc
  * @Date: 2020-12-27 00:05:55
  * @LastEditors: isboyjc
- * @LastEditTime: 2021-01-27 12:03:05
+ * @LastEditTime: 2021-01-27 23:45:06
  * @Description: 「算法与数据结构」JavaScript中的链表 双向链表设计案例
  * @Article: https://github.com/isboyjc/blog/issues/29
  * @GitHub: https://github.com/isboyjc/DailyAlgorithms
@@ -161,7 +161,7 @@ DoubleLinkedList.prototype.getElementAt = function (index) {
 DoubleLinkedList.prototype.find = function (val) {
   let curHead = this.head
   let curTail = this.tail
-  while (curHead !== curTail) {
+  while (curHead) {
     if (curHead.val == val) return curHead
     curHead = curHead.next
 
@@ -217,6 +217,7 @@ DoubleLinkedList.prototype.join = function (string) {
 // doubleLinkedList.append(15)
 // doubleLinkedList.append(20)
 // doubleLinkedList.append(25)
+// doubleLinkedList.append(35)
 // console.log(doubleLinkedList.join("<->"))
 
 // console.log(doubleLinkedList.getElementAt(0).val)
