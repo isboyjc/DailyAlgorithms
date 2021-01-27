@@ -2,7 +2,7 @@
  * @Author: isboyjc
  * @Date: 2020-12-27 00:05:55
  * @LastEditors: isboyjc
- * @LastEditTime: 2021-01-25 13:49:01
+ * @LastEditTime: 2021-01-27 12:03:05
  * @Description: 「算法与数据结构」JavaScript中的链表 双向链表设计案例
  * @Article: https://github.com/isboyjc/blog/issues/29
  * @GitHub: https://github.com/isboyjc/DailyAlgorithms
@@ -28,7 +28,7 @@ function ListNode(val) {
  * @param {*}
  * @return {*}
  */
-export function DoubleLinkedList() {
+function DoubleLinkedList() {
   this.length = 0
   this.head = null
   this.tail = null
