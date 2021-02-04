@@ -264,4 +264,6 @@ Let's stick to the brush algorithm
 
 - ❓ [No.104 路径总和 III](https://github.com/isboyjc/DailyAlgorithms/issues/103)
 
+- ❓ [No.105 二叉树的完全性检验](https://github.com/isboyjc/DailyAlgorithms/issues/105)
+
 - 持续更新中。。。
