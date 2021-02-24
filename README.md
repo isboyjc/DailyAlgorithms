@@ -266,8 +266,10 @@ Let's stick to the brush algorithm
 
 - ❓ [No.105 二叉树的完全性检验](https://github.com/isboyjc/DailyAlgorithms/issues/105)
 
-- 树结构到这里就告一段落了，我们大概刷了70题树结构，接下来我们来刷一刷之前树结构题目中有遇到的动态规划相关的题目，先来了解一下什么是动态规划吧
+- 树结构到这里就告一段落了，我们大概刷了70题树结构，接下来我们来刷一刷之前树结构题目中有遇到的动态规划相关的题目，先了解一下什么是动态规划吧
 
 - ❓ [No.106 爬楼梯](https://github.com/isboyjc/DailyAlgorithms/issues/106)
+
+- ❓ [No.107 除数博弈](https://github.com/isboyjc/DailyAlgorithms/issues/107)
 
 - 持续更新中。。。
