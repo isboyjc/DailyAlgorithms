@@ -102,7 +102,7 @@ Let's stick to the brush algorithm
 
 - ❓ [No.29 两数相加 II](https://github.com/isboyjc/DailyAlgorithms/issues/29)
 
-- ❓ [No.30 复制带随机指针的链表](https://github.com/isboyjc/DailyAlgorithms/issues/121))
+- ❓ [No.30 复制带随机指针的链表](https://github.com/isboyjc/DailyAlgorithms/issues/121)
 
 - 链表告一段落，开始树结构，先了解下什么是 [树](https://baike.baidu.com/item/%E6%A0%91/2699484?fromtitle=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%20%E6%A0%91&fromid=12062173&fr=aladdin) 吧！
 
